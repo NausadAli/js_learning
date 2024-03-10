@@ -5,8 +5,10 @@ const accountId = 3423232 //Not Changeable
 let accountName = "Nousad Ali" //changeAble
 // var accountCity - Don't use the var in JavaScript it has problems with Block Scopes and Functional Scope
 
+
 accountCity = 'Jaipur' // not a GOOD approach. Changeable
 
+//If we can't assign value to a variable then it returns //undefined
 let phnNo;
 
 console.log(accountId);
@@ -15,5 +17,5 @@ console.log(accountId);
 console.table([accountId, accountName, accountCity])
 accountCity = 'Kolkata'
 accountName = "Parul Mohapatra"
-console.table([accountId, accountName, accountCity])
+console.table([accountId, accountName, accountCity, phnNo])
 
