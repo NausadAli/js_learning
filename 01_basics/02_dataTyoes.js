@@ -1,7 +1,8 @@
 let name = "Nousad"
 
-// number -- goes from 2^53 or 2^52
-// bigint for bigger than number 
+// number -- goes from 2^53
+// BigInt for bigger than number 
+// let y = BigInt(1234567890123456789012345)
 
 // string => " "
 // boolean => true/false
