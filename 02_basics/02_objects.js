@@ -38,6 +38,7 @@ console.log(user1.greetWithName())
 console.log(user1.greetings())
 // console.log(user1)
 
+//++++++++++++++ 2nd PART+++++++++++++++++++++++++++
 
 
 
