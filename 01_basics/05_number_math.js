@@ -12,7 +12,7 @@ const myNumb = new Number(123)
 
 // console.log(myNumb.toString()) //convert it into String
 
-const hh = 123.8111119
+const hh = 123.8111119      //123.81
 // console.log(hh.toFixed(2))  //to precise after the number add 2 decimal points
 
 
