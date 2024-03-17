@@ -90,3 +90,11 @@ const retArr = [
 retArr.forEach((items)=>{
     console.log(` items details - ${items.name}\n\t\t ${items.age}`)
 })
+
+
+//Cautionss....................!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+let val = strArr.forEach( (v)=>{
+    return 1
+})
+console.log(val);           //It returns undefined
